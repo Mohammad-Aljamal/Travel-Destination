@@ -1,5 +1,11 @@
-/* div {
-    display: flex;
-    justify-content: space-between;
-} */
-
+.footer {
+    background-color: #CCD5AE;
+    /* color: ; */
+    height: 150px;
+    display:flex;
+    justify-content: center;
+    justify-items: center;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    justify-content: space-around;
+}

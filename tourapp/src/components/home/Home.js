@@ -1,16 +1,12 @@
-import Header from "../header/Header";
-import Footer from "../footer/Footer";
-import Tours from "../tours/Tours";
 
-const data = require("../../data/db.json");
+import Tour from '../tours/tour/Tour';
 
+// const data = require("../../data/db.json");
 
-function Home() {
+function Home(props) {
   return (
-    <div>
-      <Header />
-      <Tours arrayData = {data} />
-      <Footer />
+    <div className = 'style'>
+      <Tour arrayData={props.data} />
     </div>
   );
 }

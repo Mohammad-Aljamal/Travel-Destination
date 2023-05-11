@@ -1,0 +1,12 @@
+.header {
+    background-color: #CCD5AE;
+    /* color: ; */
+    height: 150px;
+    display:flex;
+    justify-content: center;
+    justify-items: center;
+    padding-top: 30px;
+    font-family: seript;
+    font-style: italic;
+    
+}

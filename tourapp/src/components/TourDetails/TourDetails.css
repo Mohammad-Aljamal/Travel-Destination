@@ -1,0 +1,32 @@
+  .screen {
+     background-color: #FEFAE0; 
+  } 
+
+ .img {
+  display: flex;
+  flex-direction: row;
+
+   align-items: center;
+  margin-top: 50px;
+} 
+
+.info {
+  background-color: #fefae0;
+} 
+
+.card{
+  background-color: #A4D0A4;
+  display: flex;
+  margin: 100px 250px 100px 250px;
+  /* justify-content: center; */
+}
+
+.title {
+  display:flex;
+justify-content: center;  align-items: center;
+background-color: #A4D0A4;
+}
+/* 
+.text {
+  background-color: #A4D0A4;
+} */
