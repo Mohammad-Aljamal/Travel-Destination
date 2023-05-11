@@ -1,0 +1,19 @@
+.g-4 {
+    display:flex;
+    justify-content: space-around;
+    size: 300px;
+    padding: 20px;
+}
+
+.title {
+    background-color: #CCD5AE;
+    display: flex;
+    justify-content: center;
+    font-family: seript;
+    font-style: italic;
+    font-size: large;
+}
+
+.sss {
+    display: flex;
+}

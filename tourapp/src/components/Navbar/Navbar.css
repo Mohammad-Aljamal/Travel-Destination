@@ -1,0 +1,26 @@
+.nav {
+  background-color: #617a55;
+  color: bisque;
+  text-decoration: none;
+  padding: 14px;
+  display: flex;
+  /* flex-direction: column; */
+
+  /* position:fixed; */
+}
+
+.li:hover {
+  text-decoration: none;
+  background-color: #ccd5ae;
+}
+
+.li {
+  color: #fefae0;
+  margin-left: 5px;
+}
+
+.link {
+  color: #fefae0;
+  padding: 10px;
+  text-decoration: none;
+}
