@@ -1,7 +1,6 @@
 
 import Tour from '../tours/tour/Tour';
 
-// const data = require("../../data/db.json");
 
 function Home(props) {
   return (

@@ -23,15 +23,6 @@ function Tour(props) {
                 </Card>
                 </Link>
               </Col>
-
-              {/* <Card>
-                <Card.Img variant="top" src={Img} />
-                <Card.Body>
-                <Card.Title>{item.name}</Card.Title>
-                <br/>
-
-                </Card.Body>
-              </Card> */}
             </div>
           );
         })}
